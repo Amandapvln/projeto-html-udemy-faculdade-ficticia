@@ -1,4 +1,4 @@
-# projeto-html-udemy
+# projeto-html-udemy-faculdade-fictícia
 ## Olá, me chamo Amanda Lino ! 
 ### Bem vindo ao meu perfil GitHub 👋
 <a href="https://imgur.com/ykzOepk"><img src="https://i.imgur.com/ykzOepk.jpg" title="source: imgur.com" /></a>
